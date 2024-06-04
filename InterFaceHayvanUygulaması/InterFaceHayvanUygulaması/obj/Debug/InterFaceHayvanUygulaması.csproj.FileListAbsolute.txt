@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\Yeni klasör\InterFaceHayvanUygulaması\InterFaceHayvanUygulaması\bin\Debug\InterFaceHayvanUygulaması.exe.config
+C:\Users\PC\Desktop\Yeni klasör\InterFaceHayvanUygulaması\InterFaceHayvanUygulaması\bin\Debug\InterFaceHayvanUygulaması.exe
+C:\Users\PC\Desktop\Yeni klasör\InterFaceHayvanUygulaması\InterFaceHayvanUygulaması\bin\Debug\InterFaceHayvanUygulaması.pdb
+C:\Users\PC\Desktop\Yeni klasör\InterFaceHayvanUygulaması\InterFaceHayvanUygulaması\obj\Debug\InterFaceHayvanUygulaması.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Yeni klasör\InterFaceHayvanUygulaması\InterFaceHayvanUygulaması\obj\Debug\InterFaceHayvanUygulaması.exe
+C:\Users\PC\Desktop\Yeni klasör\InterFaceHayvanUygulaması\InterFaceHayvanUygulaması\obj\Debug\InterFaceHayvanUygulaması.pdb
