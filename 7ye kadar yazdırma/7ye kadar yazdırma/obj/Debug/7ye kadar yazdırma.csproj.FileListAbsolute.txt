@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Yenşi\7ye kadar yazdırma\7ye kadar yazdırma\bin\Debug\7ye kadar yazdırma.exe.config
+C:\Users\PC\Desktop\Yenşi\7ye kadar yazdırma\7ye kadar yazdırma\bin\Debug\7ye kadar yazdırma.exe
+C:\Users\PC\Desktop\Yenşi\7ye kadar yazdırma\7ye kadar yazdırma\bin\Debug\7ye kadar yazdırma.pdb
+C:\Users\PC\Desktop\Yenşi\7ye kadar yazdırma\7ye kadar yazdırma\obj\Debug\7ye kadar yazdırma.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Yenşi\7ye kadar yazdırma\7ye kadar yazdırma\obj\Debug\_7ye_kadar_yazdırma.Form1.resources
+C:\Users\PC\Desktop\Yenşi\7ye kadar yazdırma\7ye kadar yazdırma\obj\Debug\_7ye_kadar_yazdırma.Properties.Resources.resources
+C:\Users\PC\Desktop\Yenşi\7ye kadar yazdırma\7ye kadar yazdırma\obj\Debug\7ye kadar yazdırma.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Yenşi\7ye kadar yazdırma\7ye kadar yazdırma\obj\Debug\7ye kadar yazdırma.exe
+C:\Users\PC\Desktop\Yenşi\7ye kadar yazdırma\7ye kadar yazdırma\obj\Debug\7ye kadar yazdırma.pdb
