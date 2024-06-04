@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\porto rico\UYG1\UYG1\bin\Debug\UYG1.exe.config
+C:\Users\PC\Desktop\porto rico\UYG1\UYG1\bin\Debug\UYG1.exe
+C:\Users\PC\Desktop\porto rico\UYG1\UYG1\bin\Debug\UYG1.pdb
+C:\Users\PC\Desktop\porto rico\UYG1\UYG1\obj\Debug\UYG1.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\porto rico\UYG1\UYG1\obj\Debug\UYG1.Form1.resources
+C:\Users\PC\Desktop\porto rico\UYG1\UYG1\obj\Debug\UYG1.Properties.Resources.resources
+C:\Users\PC\Desktop\porto rico\UYG1\UYG1\obj\Debug\UYG1.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\porto rico\UYG1\UYG1\obj\Debug\UYG1.exe
+C:\Users\PC\Desktop\porto rico\UYG1\UYG1\obj\Debug\UYG1.pdb
