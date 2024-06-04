@@ -1,0 +1,9 @@
+G:\projeler\While3\While3\bin\Debug\While3.exe.config
+G:\projeler\While3\While3\bin\Debug\While3.exe
+G:\projeler\While3\While3\bin\Debug\While3.pdb
+G:\projeler\While3\While3\obj\Debug\While3.csprojResolveAssemblyReference.cache
+G:\projeler\While3\While3\obj\Debug\While3.Form1.resources
+G:\projeler\While3\While3\obj\Debug\While3.Properties.Resources.resources
+G:\projeler\While3\While3\obj\Debug\While3.csproj.GenerateResource.Cache
+G:\projeler\While3\While3\obj\Debug\While3.exe
+G:\projeler\While3\While3\obj\Debug\While3.pdb
