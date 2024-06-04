@@ -1,0 +1,12 @@
+G:\projeler\DoWhile2\DoWhile2\bin\Debug\DoWhile2.exe.config
+G:\projeler\DoWhile2\DoWhile2\bin\Debug\DoWhile2.exe
+G:\projeler\DoWhile2\DoWhile2\bin\Debug\DoWhile2.pdb
+G:\projeler\DoWhile2\DoWhile2\obj\Debug\DoWhile2.csprojResolveAssemblyReference.cache
+G:\projeler\DoWhile2\DoWhile2\obj\Debug\DoWhile2.Form1.resources
+G:\projeler\DoWhile2\DoWhile2\obj\Debug\DoWhile2.Properties.Resources.resources
+G:\projeler\DoWhile2\DoWhile2\obj\Debug\DoWhile2.csproj.GenerateResource.Cache
+G:\projeler\DoWhile2\DoWhile2\obj\Debug\DoWhile2.exe
+G:\projeler\DoWhile2\DoWhile2\obj\Debug\DoWhile2.pdb
+G:\DoWhile2\DoWhile2\bin\Debug\DoWhile2.exe.config
+G:\DoWhile2\DoWhile2\obj\Debug\DoWhile2.exe
+G:\DoWhile2\DoWhile2\obj\Debug\DoWhile2.pdb
