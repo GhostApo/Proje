@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\porto rico\UYG5\UYG5\bin\Debug\UYG5.exe.config
+C:\Users\PC\Desktop\porto rico\UYG5\UYG5\obj\Debug\UYG5.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\porto rico\UYG5\UYG5\obj\Debug\UYG5.Form1.resources
+C:\Users\PC\Desktop\porto rico\UYG5\UYG5\obj\Debug\UYG5.Properties.Resources.resources
+C:\Users\PC\Desktop\porto rico\UYG5\UYG5\obj\Debug\UYG5.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\porto rico\UYG5\UYG5\bin\Debug\UYG5.exe
+C:\Users\PC\Desktop\porto rico\UYG5\UYG5\bin\Debug\UYG5.pdb
+C:\Users\PC\Desktop\porto rico\UYG5\UYG5\obj\Debug\UYG5.exe
+C:\Users\PC\Desktop\porto rico\UYG5\UYG5\obj\Debug\UYG5.pdb
+F:\porto rico\UYG5\UYG5\bin\Debug\UYG5.exe.config
+F:\porto rico\UYG5\UYG5\obj\Debug\UYG5.exe
+F:\porto rico\UYG5\UYG5\obj\Debug\UYG5.pdb
