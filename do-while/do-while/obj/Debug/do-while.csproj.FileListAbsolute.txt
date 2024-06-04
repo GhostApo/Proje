@@ -1,0 +1,9 @@
+G:\projeler\do-while\do-while\bin\Debug\do-while.exe.config
+G:\projeler\do-while\do-while\bin\Debug\do-while.exe
+G:\projeler\do-while\do-while\bin\Debug\do-while.pdb
+G:\projeler\do-while\do-while\obj\Debug\do-while.csprojResolveAssemblyReference.cache
+G:\projeler\do-while\do-while\obj\Debug\do_while.Form1.resources
+G:\projeler\do-while\do-while\obj\Debug\do_while.Properties.Resources.resources
+G:\projeler\do-while\do-while\obj\Debug\do-while.csproj.GenerateResource.Cache
+G:\projeler\do-while\do-while\obj\Debug\do-while.exe
+G:\projeler\do-while\do-while\obj\Debug\do-while.pdb

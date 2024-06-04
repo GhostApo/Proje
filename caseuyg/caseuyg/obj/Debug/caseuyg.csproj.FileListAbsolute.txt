@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Yeni klasör\caseuyg\caseuyg\bin\Debug\caseuyg.exe.config
+C:\Users\PC\Desktop\Yeni klasör\caseuyg\caseuyg\bin\Debug\caseuyg.exe
+C:\Users\PC\Desktop\Yeni klasör\caseuyg\caseuyg\bin\Debug\caseuyg.pdb
+C:\Users\PC\Desktop\Yeni klasör\caseuyg\caseuyg\obj\Debug\caseuyg.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Yeni klasör\caseuyg\caseuyg\obj\Debug\caseuyg.Form1.resources
+C:\Users\PC\Desktop\Yeni klasör\caseuyg\caseuyg\obj\Debug\caseuyg.Properties.Resources.resources
+C:\Users\PC\Desktop\Yeni klasör\caseuyg\caseuyg\obj\Debug\caseuyg.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Yeni klasör\caseuyg\caseuyg\obj\Debug\caseuyg.exe
+C:\Users\PC\Desktop\Yeni klasör\caseuyg\caseuyg\obj\Debug\caseuyg.pdb
