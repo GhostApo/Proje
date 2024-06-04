@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Kanser\Yükses Ses\Yükses Ses\bin\Debug\Yükses Ses.exe.config
+C:\Users\PC\Desktop\Kanser\Yükses Ses\Yükses Ses\obj\Debug\Yükses Ses.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Kanser\Yükses Ses\Yükses Ses\obj\Debug\Yükses_Ses.Form1.resources
+C:\Users\PC\Desktop\Kanser\Yükses Ses\Yükses Ses\obj\Debug\Yükses_Ses.Properties.Resources.resources
+C:\Users\PC\Desktop\Kanser\Yükses Ses\Yükses Ses\obj\Debug\Yükses Ses.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Kanser\Yükses Ses\Yükses Ses\bin\Debug\Yükses Ses.exe
+C:\Users\PC\Desktop\Kanser\Yükses Ses\Yükses Ses\bin\Debug\Yükses Ses.pdb
+C:\Users\PC\Desktop\Kanser\Yükses Ses\Yükses Ses\obj\Debug\Yükses Ses.exe
+C:\Users\PC\Desktop\Kanser\Yükses Ses\Yükses Ses\obj\Debug\Yükses Ses.pdb
