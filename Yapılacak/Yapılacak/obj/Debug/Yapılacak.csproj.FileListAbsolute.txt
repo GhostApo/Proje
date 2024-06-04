@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\porto rico\Yapılacak\Yapılacak\obj\Debug\Yapılacak.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\porto rico\Yapılacak\Yapılacak\obj\Debug\Yapılacak.Form1.resources
+C:\Users\PC\Desktop\porto rico\Yapılacak\Yapılacak\obj\Debug\Yapılacak.Properties.Resources.resources
+C:\Users\PC\Desktop\porto rico\Yapılacak\Yapılacak\obj\Debug\Yapılacak.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\porto rico\Yapılacak\Yapılacak\bin\Debug\3.Uygulama.exe.config
+C:\Users\PC\Desktop\porto rico\Yapılacak\Yapılacak\bin\Debug\3.Uygulama.exe
+C:\Users\PC\Desktop\porto rico\Yapılacak\Yapılacak\bin\Debug\3.Uygulama.pdb
+C:\Users\PC\Desktop\porto rico\Yapılacak\Yapılacak\obj\Debug\3.Uygulama.exe
+C:\Users\PC\Desktop\porto rico\Yapılacak\Yapılacak\obj\Debug\3.Uygulama.pdb
