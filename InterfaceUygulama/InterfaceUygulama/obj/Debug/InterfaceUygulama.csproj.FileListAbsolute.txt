@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\Yeni klasör\InterfaceUygulama\InterfaceUygulama\bin\Debug\InterfaceUygulama.exe.config
+C:\Users\PC\Desktop\Yeni klasör\InterfaceUygulama\InterfaceUygulama\bin\Debug\InterfaceUygulama.exe
+C:\Users\PC\Desktop\Yeni klasör\InterfaceUygulama\InterfaceUygulama\bin\Debug\InterfaceUygulama.pdb
+C:\Users\PC\Desktop\Yeni klasör\InterfaceUygulama\InterfaceUygulama\obj\Debug\InterfaceUygulama.exe
+C:\Users\PC\Desktop\Yeni klasör\InterfaceUygulama\InterfaceUygulama\obj\Debug\InterfaceUygulama.pdb
+C:\Users\PC\Desktop\Yeni klasör\InterfaceUygulama\InterfaceUygulama\obj\Debug\InterfaceUygulama.csprojResolveAssemblyReference.cache
