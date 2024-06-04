@@ -1,0 +1,19 @@
+C:\Users\PC\Desktop\Projeler 3\DictionaryUygulama\DictionaryUygulama\bin\Debug\DictionaryUygulama.exe.config
+C:\Users\PC\Desktop\Projeler 3\DictionaryUygulama\DictionaryUygulama\bin\Debug\DictionaryUygulama.exe
+C:\Users\PC\Desktop\Projeler 3\DictionaryUygulama\DictionaryUygulama\bin\Debug\DictionaryUygulama.pdb
+C:\Users\PC\Desktop\Projeler 3\DictionaryUygulama\DictionaryUygulama\obj\Debug\DictionaryUygulama.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Projeler 3\DictionaryUygulama\DictionaryUygulama\obj\Debug\DictionaryUygulama.Form1.resources
+C:\Users\PC\Desktop\Projeler 3\DictionaryUygulama\DictionaryUygulama\obj\Debug\DictionaryUygulama.Properties.Resources.resources
+C:\Users\PC\Desktop\Projeler 3\DictionaryUygulama\DictionaryUygulama\obj\Debug\DictionaryUygulama.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Projeler 3\DictionaryUygulama\DictionaryUygulama\obj\Debug\DictionaryUygulama.exe
+C:\Users\PC\Desktop\Projeler 3\DictionaryUygulama\DictionaryUygulama\obj\Debug\DictionaryUygulama.pdb
+E:\DictionaryUygulama\DictionaryUygulama\bin\Debug\DictionaryUygulama.exe.config
+E:\DictionaryUygulama\DictionaryUygulama\bin\Debug\DictionaryUygulama.exe
+E:\DictionaryUygulama\DictionaryUygulama\bin\Debug\DictionaryUygulama.pdb
+E:\DictionaryUygulama\DictionaryUygulama\obj\Debug\DictionaryUygulama.csproj.AssemblyReference.cache
+E:\DictionaryUygulama\DictionaryUygulama\obj\Debug\DictionaryUygulama.Form1.resources
+E:\DictionaryUygulama\DictionaryUygulama\obj\Debug\DictionaryUygulama.Properties.Resources.resources
+E:\DictionaryUygulama\DictionaryUygulama\obj\Debug\DictionaryUygulama.csproj.GenerateResource.cache
+E:\DictionaryUygulama\DictionaryUygulama\obj\Debug\DictionaryUygulama.csproj.CoreCompileInputs.cache
+E:\DictionaryUygulama\DictionaryUygulama\obj\Debug\DictionaryUygulama.exe
+E:\DictionaryUygulama\DictionaryUygulama\obj\Debug\DictionaryUygulama.pdb

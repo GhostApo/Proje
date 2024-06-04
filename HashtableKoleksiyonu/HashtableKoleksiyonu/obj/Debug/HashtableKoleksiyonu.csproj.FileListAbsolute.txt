@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\Projeler 3\HashtableKoleksiyonu\HashtableKoleksiyonu\bin\Debug\HashtableKoleksiyonu.exe.config
+C:\Users\PC\Desktop\Projeler 3\HashtableKoleksiyonu\HashtableKoleksiyonu\bin\Debug\HashtableKoleksiyonu.exe
+C:\Users\PC\Desktop\Projeler 3\HashtableKoleksiyonu\HashtableKoleksiyonu\bin\Debug\HashtableKoleksiyonu.pdb
+C:\Users\PC\Desktop\Projeler 3\HashtableKoleksiyonu\HashtableKoleksiyonu\obj\Debug\HashtableKoleksiyonu.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Projeler 3\HashtableKoleksiyonu\HashtableKoleksiyonu\obj\Debug\HashtableKoleksiyonu.exe
+C:\Users\PC\Desktop\Projeler 3\HashtableKoleksiyonu\HashtableKoleksiyonu\obj\Debug\HashtableKoleksiyonu.pdb
