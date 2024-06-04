@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Kanser\B\B\bin\Debug\B.exe.config
+C:\Users\PC\Desktop\Kanser\B\B\bin\Debug\B.exe
+C:\Users\PC\Desktop\Kanser\B\B\bin\Debug\B.pdb
+C:\Users\PC\Desktop\Kanser\B\B\obj\Debug\B.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Kanser\B\B\obj\Debug\B.Form1.resources
+C:\Users\PC\Desktop\Kanser\B\B\obj\Debug\B.Properties.Resources.resources
+C:\Users\PC\Desktop\Kanser\B\B\obj\Debug\B.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Kanser\B\B\obj\Debug\B.exe
+C:\Users\PC\Desktop\Kanser\B\B\obj\Debug\B.pdb
