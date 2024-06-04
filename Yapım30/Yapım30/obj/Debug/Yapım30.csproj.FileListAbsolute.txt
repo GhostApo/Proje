@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Yenilik\Yapım30\Yapım30\bin\Debug\Yapım30.exe.config
+C:\Users\PC\Desktop\Yenilik\Yapım30\Yapım30\bin\Debug\Yapım30.exe
+C:\Users\PC\Desktop\Yenilik\Yapım30\Yapım30\bin\Debug\Yapım30.pdb
+C:\Users\PC\Desktop\Yenilik\Yapım30\Yapım30\obj\Debug\Yapım30.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Yenilik\Yapım30\Yapım30\obj\Debug\Yapım30.Form1.resources
+C:\Users\PC\Desktop\Yenilik\Yapım30\Yapım30\obj\Debug\Yapım30.Properties.Resources.resources
+C:\Users\PC\Desktop\Yenilik\Yapım30\Yapım30\obj\Debug\Yapım30.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Yenilik\Yapım30\Yapım30\obj\Debug\Yapım30.exe
+C:\Users\PC\Desktop\Yenilik\Yapım30\Yapım30\obj\Debug\Yapım30.pdb
