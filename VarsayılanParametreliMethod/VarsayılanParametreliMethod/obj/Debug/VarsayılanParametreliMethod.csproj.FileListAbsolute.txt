@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\Yeni klasör\VarsayılanParametreliMethod\VarsayılanParametreliMethod\bin\Debug\VarsayılanParametreliMethod.exe.config
+C:\Users\PC\Desktop\Yeni klasör\VarsayılanParametreliMethod\VarsayılanParametreliMethod\obj\Debug\VarsayılanParametreliMethod.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Yeni klasör\VarsayılanParametreliMethod\VarsayılanParametreliMethod\bin\Debug\VarsayılanParametreliMethod.exe
+C:\Users\PC\Desktop\Yeni klasör\VarsayılanParametreliMethod\VarsayılanParametreliMethod\bin\Debug\VarsayılanParametreliMethod.pdb
+C:\Users\PC\Desktop\Yeni klasör\VarsayılanParametreliMethod\VarsayılanParametreliMethod\obj\Debug\VarsayılanParametreliMethod.exe
+C:\Users\PC\Desktop\Yeni klasör\VarsayılanParametreliMethod\VarsayılanParametreliMethod\obj\Debug\VarsayılanParametreliMethod.pdb
